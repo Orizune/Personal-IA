@@ -1,4 +1,4 @@
-# IA-Pessoal2 — Open WebUI + 9Router
+# Personal-IA — Open WebUI + 9Router
 
 Ambiente de IA pessoal com interface web, gateway unificado de modelos e recursos como pesquisa web, visão via Gemini, e túnel Cloudflare.
 
@@ -36,7 +36,7 @@ Ambiente de IA pessoal com interface web, gateway unificado de modelos e recurso
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/IA-Pessoal2.git
-cd IA-Pessoal2
+git clone https://github.com/seu-usuario/Personal-IA.git
+cd Personal-IA
 cp .env.example .env   # preencha com suas chaves
 docker compose up -d
