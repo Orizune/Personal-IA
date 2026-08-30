@@ -13,6 +13,7 @@ Ambiente de IA pessoal com interface web, gateway unificado de modelos e recurso
 
 ## Exemplo
   <img width="1600" height="855" alt="exemplo de uso 1" src="https://github.com/user-attachments/assets/4c3c5e64-b8f8-4c7e-a896-82c4cf1ea6a0" />
+  <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/131659e2-6d49-40d4-ba03-d72f59a604f9" />
   <img width="1600" height="806" alt="2" src="https://github.com/user-attachments/assets/eff3da5c-5997-4fc2-936f-afb24b8bca60" />
   <img width="1600" height="854" alt="3" src="https://github.com/user-attachments/assets/e3085a36-61d5-437a-ac88-7744b9d215fd" />
   <img width="1600" height="847" alt="4" src="https://github.com/user-attachments/assets/0f4e46e1-00a7-417a-b720-278cccbb7eb9" />
